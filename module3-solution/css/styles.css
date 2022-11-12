@@ -22,9 +22,18 @@
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+/*.navbar-collapse.collapse {*/
+#collapsable-nav {
+  padding-bottom: 10px;
+}
+
+h3 {
+  margin-top: 0;
+}
 
 .category-desc {
   background-color: #6666ff;
+  padding: 15px;
   color: #fff;
   width: 100%;
 }
