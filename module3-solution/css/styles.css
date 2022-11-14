@@ -53,3 +53,7 @@ h3 {
 #nav-list a span {
   font-size: 1.8em;
 }
+.category-desc a {
+  color: #fff;
+  text-decoration: underline;
+}
